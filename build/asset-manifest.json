@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad778d48.css",
+    "main.js": "/static/js/main.116a951b.js",
+    "static/js/453.63261c35.chunk.js": "/static/js/453.63261c35.chunk.js",
+    "static/media/ensoleillePlus.jpg": "/static/media/ensoleillePlus.a192306e21553efdbd2d.jpg",
+    "static/media/nuageuxPlus.jpg": "/static/media/nuageuxPlus.8e84fd646a37c9bd6ad2.jpg",
+    "static/media/brokencloud.jpg": "/static/media/brokencloud.416d8eab47c6a56a6c44.jpg",
+    "static/media/ensoleille.jpg": "/static/media/ensoleille.c5e4c50b7e1f4d645197.jpg",
+    "static/media/cloudy-sky-landscape-wallpaper.jpg": "/static/media/cloudy-sky-landscape-wallpaper.b1a5d8c546fd6f270d8a.jpg",
+    "static/media/applogo.png": "/static/media/applogo.c20f323203da3fe6f871.png",
+    "index.html": "/index.html",
+    "main.ad778d48.css.map": "/static/css/main.ad778d48.css.map",
+    "main.116a951b.js.map": "/static/js/main.116a951b.js.map",
+    "453.63261c35.chunk.js.map": "/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad778d48.css",
+    "static/js/main.116a951b.js"
+  ]
+}
